@@ -59,7 +59,7 @@ Here are a few highlights:
   <a href="https://linkedin.com/in/stan01in" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="stanli867@gmail.com" target="_blank">
+  <a href="stanli867@gmail.com" target="stanli867@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://stantlinportfolio.netlify.app/" target="_blank">
