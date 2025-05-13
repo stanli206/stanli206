@@ -15,8 +15,8 @@
 - 💬 Ask me about **React, Node, Express, MongoDB, or Tailwind CSS**
 - 💼 I also have professional experience in **.NET Framework**
 - 🧠 Skilled in **C#, ASP.NET MVC, Entity Framework**
-- 📫 Reach me at: [stanli867@gmail.com](mailto:your.email@example.com)
-- 🌐 Portfolio: [https://stantlinportfolio.netlify.app/](https://yourportfolio.com)
+- 📫 Reach me at: [stanli867@gmail.com](stanli867@gmail.com)
+- 🌐 Portfolio: [stantlin_Portfolio.com](https://stantlinportfolio.netlify.app/)
 
 ---
 
