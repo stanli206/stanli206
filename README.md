@@ -1,6 +1,6 @@
 <!-- Profile README.md -->
 
-<h1 align="center">Hi there 👋, I'm stantlin!</h1>
+<h1 align="center">Hi there 👋, I'm stantilin!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Building+Beautiful+UIs+%F0%9F%92%BB" alt="Typing SVG" />
